@@ -72,6 +72,7 @@
                                 </goals>
                                 <phase>package</phase>
                                 <configuration>
+                                    <tarLongFileMode>posix</tarLongFileMode>
                                     <descriptors>
                                         <descriptor>release.xml</descriptor>
                                     </descriptors>
